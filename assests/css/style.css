@@ -1,9 +1,21 @@
 /* Universal Selectors */
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: blue;
+}
 
 /* Element Selectors */
+.header {
+    background-color: grey;
+    padding: 30px;
+    text-align: left;
+    font-size: 10px;
+}
+
 
 h1 {
-    color: red;
+    color: blue;
 }
 
 /* Class Selectors */
